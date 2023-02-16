@@ -25,7 +25,6 @@ Here are some ideas to get you started:
 
 #### Top Repositories
 
-
-<a href="[https://github.com/anuraghazra/github-readme-stats](https://github.com/CPEN-321-World-Exploration-Action/CPEN-321-World_Exploration_Action)">
-  <img align="center" src="[https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats](https://github.com/CPEN-321-World-Exploration-Action/CPEN-321-World_Exploration_Action)&theme=buefy" />
+<a href="https://github.com/CPEN-321-World-Exploration-Action/CPEN-321-World_Exploration_Action">
+  <img align="center" src="https://github.com/CPEN-321-World-Exploration-Action/CPEN-321-World_Exploration_Action&theme=buefy" />
 </a>
