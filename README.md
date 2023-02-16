@@ -22,7 +22,8 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=houlinhe&count_private=true&layout=compact&theme=nightowl&bg_color=00000000&include_orgs=true" width="375"/>
   
 </a>
-<br />
+
+
 #### Top Repositories
 
 <a href="https://github.com/CPEN-321-World-Exploration-Action/CPEN-321-World_Exploration_Action">
