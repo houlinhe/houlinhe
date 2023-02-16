@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 </a>
 
 
-#### Top Repositories
+### Top Repositories
 
 <a href="https://github.com/CPEN-321-World-Exploration-Action/CPEN-321-World_Exploration_Action">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=houlinhe&repo=CPEN-321-World_Exploration_Action&theme=buefy" />
